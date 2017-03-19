@@ -43,8 +43,8 @@
 			</div>
 			</br>
 			<div class="row">
-				<div class="col-sm-11 col-md-11"></div>
-				<div class="col-sm-1 col-md-1 text-left">
+				<div class="col-sm-9 col-md-11"></div>
+				<div class="col-sm-3 col-md-1 text-right">
 					<button type="submit" class="btn btn-primary">บันทีก</button>
 				</div>
 			</div>
